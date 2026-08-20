@@ -1,14 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "date": "2026-08-20",
-  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.0.0/LabCentralPro-1.0.0.apk",
-  "critical": false,
+  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.1.0/LabCentralPro-1.1.0.apk",
   "changelog": [
-    "Version initiale de LabCentral Pro",
-    "6 essais laboratoire central : Proctor, AG, Atterberg, CBR, ES, MVA",
-    "Export Excel de chaque essai",
-    "Assistant Proctor prédictif",
-    "Courbes en direct pour PM, AG, Atterberg, CBR",
-    "Système de licence et mises à jour"
+    "Système de licences automatisé avec Firebase",
+    "Formulaire de demande de licence dans l'app",
+    "1 licence = 1 appareil (protection contre le partage)",
+    "Vérification en ligne des codes",
+    "Dashboard administrateur"
   ]
 }
