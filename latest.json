@@ -1,12 +1,13 @@
 {
-  "version": "1.1.0",
-  "date": "2026-08-20",
-  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.1.0/LabCentralPro-1.1.0.apk",
+  "version": "1.2.0",
+  "date": "2026-08-21",
+  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.2.0/LabCentralPro-1.2.0.apk",
+  "critical": false,
   "changelog": [
-    "Système de licences automatisé avec Firebase",
-    "Formulaire de demande de licence dans l'app",
-    "1 licence = 1 appareil (protection contre le partage)",
-    "Vérification en ligne des codes",
-    "Dashboard administrateur"
+    "🧪 Atterberg : écarts en direct + tolérances norme + formule W.E.S.",
+    "🔨 CBR refonte : 3 éprouvettes, 6 lectures, courbes effort-enfoncement",
+    "🌍 4 nouveaux essais in-situ : DSS, DSM, Déflexion, Essai de Plaque",
+    "📊 Jusqu'à 6 compacités par PV pour DSS et DSM",
+    "🚧 Déflexion : paramétrage par section, valeurs non conformes en rouge"
   ]
 }
