@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "date": "2026-08-21",
-  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.2.0/LabCentralPro-1.2.0.apk",
+  "version": "1.2.1",
+  "date": "2026-08-22",
+  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.2.1/LabCentralPro-1.2.1.apk",
   "critical": false,
   "changelog": [
     "🧪 Atterberg : écarts en direct + tolérances norme + formule W.E.S.",
