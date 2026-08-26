@@ -5,7 +5,7 @@
   "critical": false,
   "changelog": [
     "🧪 Atterberg : écarts en direct + tolérances norme + formule W.E.S.",
-    "🔨 CBR refonte : 3 éprouvettes, 6 lectures, courbes effort-enfoncement",
+    "🔨 CBR refonte : 3 éprouvettes, 7 lectures, courbes effort-enfoncement",
     "🌍 4 nouveaux essais in-situ : DSS, DSM, Déflexion, Essai de Plaque",
     "📊 Jusqu'à 6 compacités par PV pour DSS et DSM",
     "🚧 Déflexion : paramétrage par section, valeurs non conformes en rouge"
