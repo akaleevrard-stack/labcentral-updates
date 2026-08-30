@@ -1,9 +1,9 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "date": "2026-08-30",
-  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.3.2/LabCentralPro-1.3.2.apk",
+  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.3.3/LabCentral.Pro.Mobile.v1.3.3.apk",
   "critical": false,
   "changelog": [
-    "🔨 Correction de bugs et logo"
+    "🔨 Correction de bugs DSS"
   ]
 }
