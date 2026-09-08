@@ -1,7 +1,7 @@
 {
-  "version": "1.4.3",
-  "date": "2026-09-06",
-  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.4.3/LabCentral.Pro.v1.4.3.apk",
+  "version": "1.4.4",
+  "date": "2026-09-08",
+  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.4.4/LabCentral.Pro.v1.4.4.apk",
   "changelog": [
     "Nouveau Registre des essais (recherche, filtres, vue table/groupée)",
     "Exports PDF (page de garde + signature) et Excel",
