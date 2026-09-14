@@ -1,6 +1,6 @@
 {
-  "version": "1.4.6",
-  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.4.6/LabCentral.Pro.v1.4.6.apk",
+  "version": "1.4.7",
+  "downloadUrl": "https://github.com/akaleevrard-stack/labcentral-updates/releases/download/v1.4.7/LabCentral.Pro.v1.4.7.apk",
   "changelog": [
     "Infos du laboratoire obligatoires au démarrage",
     "Système de projets : choix du projet à l'ouverture + chantier prérempli",
@@ -8,5 +8,5 @@
     "Identifiant du laboratoire (labId) affiché sur tous les documents",
     "Licence utilisable sur plusieurs appareils du même labo"
   ],
-  "date": "2026-09-10"
+  "date": "2026-09-14"
 }
